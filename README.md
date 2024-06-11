@@ -1,2 +1,2 @@
 # LAB_PraktykaProgramowania
-Repozytorium utworzone na potrzeby laboratorium z Podstaw programowania
+Repozytorium utworzone na potrzeby laboratorium z Praktyki programowania
